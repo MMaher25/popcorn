@@ -1,0 +1,22 @@
+{
+  "name": "popcorn",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "phaser": "^3.18.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
