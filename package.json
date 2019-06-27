@@ -16,6 +16,8 @@
     "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
+    "build": "webpack",
+    "start": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
